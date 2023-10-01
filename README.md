@@ -10,7 +10,7 @@ I'm Nithin Krishna, a tech enthusiast from Anantapur, India. Welcome to my GitHu
 ## My Interests
 
 - 💻 I enjoy working on projects related to web development, particularly in JavaScript and React. Currently learning on Flutter for Mobile App Development
-- 📚 Always learning and exploring new technologies.
+- 📚 Always learning and exploring new technologies. (C, Python, Flutter, AWS, Docker)
 - 🎮 In my free time, I'm a casual gamer and love playing Red Dead Redemption 2, Doom Eternal, GTA 5 and Half-Life.
 
 ## Contact Me
