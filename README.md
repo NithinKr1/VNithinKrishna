@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Nithin Krishna, a tech enthusiast from Anantapur, India. Welcome to my GitHub profile!
+I'm Nithin Krishna, a tech enthusiast from Karlskrona, Sweden. Welcome to my GitHub profile!
 
 ## About Me
 
